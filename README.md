@@ -1,5 +1,9 @@
 # Statie + gulp example project
 
+**NOTE:** currently might be out of sync with current versions of used tools
+
+---
+
 See the integration of [Statie](https://github.com/Symplify/Statie) - the PHP static site generator and [gulp](https://github.com/gulpjs/gulp).
 
 Read more in the following articles:
